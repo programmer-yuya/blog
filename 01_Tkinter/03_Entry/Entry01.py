@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 # ボタンを押下 → 入力されたテキストでラベルを作成・表示
 def display_text():
     label_entry_text = tk.Label(root, text=entry.get())

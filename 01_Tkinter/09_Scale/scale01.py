@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 def update_color(r, g, b):
     color = f"#{r:02x}{g:02x}{b:02x}"
     canvas.config(bg=color)

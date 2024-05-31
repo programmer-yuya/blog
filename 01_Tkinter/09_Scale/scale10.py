@@ -1,6 +1,7 @@
 # showvalue
 import tkinter as tk
 
+
 def on_scale(val):
     label.config(text=str(val) + "%")
 

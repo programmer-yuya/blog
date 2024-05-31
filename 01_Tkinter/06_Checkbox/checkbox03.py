@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 # ボタンを押すと、チェックボックスの状態を表示する
 def display_state_checkbox():
     # 状態を表示するラベルを作成

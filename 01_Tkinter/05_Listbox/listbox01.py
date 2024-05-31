@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 def  get_selected_value():
     # 選択した選択肢のインデックスを取得
     selected_index = listbox.curselection()

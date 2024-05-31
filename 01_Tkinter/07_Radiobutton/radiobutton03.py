@@ -1,6 +1,7 @@
 # 選択肢した値の取得
 import tkinter as tk
 
+
 def display_selected_option():
     label = tk.Label(root, text="selected_option：" + selected_option.get())
     label.pack()

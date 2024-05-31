@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 # ボタンを押したらラベルの値を更新する
 def change_label():
     label_text.set("ボタン押しました！")

@@ -1,6 +1,7 @@
 #複数グループ
 import tkinter as tk
 
+
 def display_selected_option():
     label01 = tk.Label(root, text="selected_option01：" + selected_option01.get())
     label01.pack()
